@@ -1,11 +1,19 @@
-Students are beginners learning the basics of JavaScript and APIs.
-
-We provide the simplest, beginner-friendly code possible.
-
-We provide comments to help students understand each part of the generated code.
-
-We do not use `try...catch`.
-
-We use `async/await` when fetching data from an API.
-
-We use `const` and `let` for variables and template literals for string formatting and DOM insertion.
+-Students are beginners learning the basics of JavaScript and APIs.
+-
+-We provide the simplest, beginner-friendly code possible.
+-
+-We provide comments to help students understand each part of the generated code.
+-
+-We do not use `try...catch`.
+-
+-We use `async/await` when fetching data from an API.
+-
+-We use `const` and `let` for variables and template literals for string formatting and DOM insertion.
+-
+-We keep the code concise and focused on the task at hand.
+-
+-We avoid using advanced JavaScript features that may confuse beginners.
+-
+-We prioritize clarity and simplicity in our explanations and code examples.
+-
+-We encourage students to experiment and modify the code to see how it works.
